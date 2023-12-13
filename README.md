@@ -44,11 +44,11 @@ How do custom scripts contribute to better alignment with the individual needs o
 
 ## Chapter 2: Literature Review <a name="literature-review"></a>
 
-In this section of the research document, attention is directed towards an examination of the current body of knowledge pertaining to the utilization of personalized scripts for the augmentation of workflow automation within Adobe After Effects.
+**In this section of the research document, attention is directed towards an examination of the current body of knowledge pertaining to the utilization of personalized scripts for the augmentation of workflow automation within Adobe After Effects.**
 
 ### Current Landscape of Automation in Adobe Software
 
-**Adobe After Effects, along with other software from Adobe's suite, presents a range of options for the automation of diverse processes. The software facilitates automation in animation and image processing within After Effects through the utilization of expressions, scripts, and plug-ins.**
+Adobe After Effects, along with other software from Adobe's suite, presents a range of options for the automation of diverse processes. The software facilitates automation in animation and image processing within After Effects through the utilization of expressions, scripts, and plug-ins.
 
 ### Adobe ExtendScript and Its Applications
 
@@ -144,7 +144,7 @@ These solutions empower developers to craft more robust and efficient custom scr
 
 ## Chapter 7: Future Developments <a name="future-developments"></a>
 
-The landscape of scripting for Adobe After Effects, akin to other technological domains, remains in a state of continuous evolution. As we cast our gaze towards the future, a multitude of exciting developments are anticipated to significantly augment the potential of custom scripts and redefine their role in workflow automation.
+**The landscape of scripting for Adobe After Effects, akin to other technological domains, remains in a state of continuous evolution. As we cast our gaze towards the future, a multitude of exciting developments are anticipated to significantly augment the potential of custom scripts and redefine their role in workflow automation.**
 
 ### Integration with Other Technologies
 
