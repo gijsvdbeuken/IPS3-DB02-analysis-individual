@@ -44,7 +44,7 @@ In anticipation of the ever-evolving nature of technology, the research document
 
 ## Chapter 2: Literature Review <a name="literature-review"></a>
 
-In this section of the thesis, attention is directed towards an examination of the current body of knowledge pertaining to the utilization of personalized scripts for the augmentation of workflow automation within Adobe After Effects.
+In this section of the research document, attention is directed towards an examination of the current body of knowledge pertaining to the utilization of personalized scripts for the augmentation of workflow automation within Adobe After Effects.
 
 ### Current Landscape of Automation in Adobe Software
 
