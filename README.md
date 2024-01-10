@@ -2,7 +2,7 @@
 
 _Made by Gijs van den Beuken_
 
-![Alt text](url)
+![Computer with tablet displaying the Adobe Suite next to it](https://github.com/gijsvdbeuken/IPS3-DB02-Thesis-individual/blob/main/assets/emily-bernal-v9vII5gV8Lw-unsplash.jpg)
 
 ## Table of Contents
 
