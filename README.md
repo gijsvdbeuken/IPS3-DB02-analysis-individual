@@ -24,11 +24,11 @@ In some cases, Adobe After Effects does not optimally align with the specific ne
 
 ### Main question
 
-How can the development of custom scripts enhance workflow automation, address specific challenges in complex visual projects, and in what way do these improvements contribute to better alignment with the individual needs of video editors and motion designers?
+How can the development of custom scripts enhance workflow automation address specific challenges in complex visual projects?
 
 ### Sub-question 1
 
-In what ways can custom scripts be developed to enhance workflow automation?"
+In what ways can custom scripts be developed to enhance workflow automation?
 
 ### Sub-question 2
 
