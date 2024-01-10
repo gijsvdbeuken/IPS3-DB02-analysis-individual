@@ -2,6 +2,8 @@
 
 _Made by Gijs van den Beuken_
 
+![Alt text](url)
+
 ## Table of Contents
 
 - [Chapter 1: Introduction](#introduction)
@@ -12,7 +14,7 @@ _Made by Gijs van den Beuken_
 - [Chapter 6: Navigating Challenges and Solutions](#challenges-and-solutions)
 - [Chapter 7: Future Developments](#future-developments)
 - [Chapter 8: Conclusion](#conclusion)
-- [References](#references)
+- [Sources](#sources)
 
 ## Chapter 1: Introduction <a name="introduction"></a>
 
@@ -170,7 +172,7 @@ Collaborative platforms like GitHub and Adobe's forums serve as conduits for scr
 
 **Looking forward, the journey promises ongoing empowerment through the ever-evolving realm of custom scripts in Adobe After Effects. The dynamic nature of this field suggests that continued exploration, collaboration, and adaptation will be essential in unlocking the full potential of scripting to transform and enhance the creative processes within the realm of video editing and motion design.**
 
-## References <a name="references"></a>
+## Sources <a name="sources"></a>
 
 [ExtendScript Overview](https://extendscript.docsforadobe.dev/introduction/extendscript-overview.html)
 
